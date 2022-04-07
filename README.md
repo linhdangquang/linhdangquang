@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [http://dangquanglinh.me/](https://dangquanglinh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dangquanglinh.me/](https://dangquanglinh-portfolio.netlify.app/)
 
 - 📫 How to reach me **dangquanglinh48@gmail.com**
 
