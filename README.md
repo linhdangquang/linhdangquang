@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dang Quang Linh</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [dangquanglinh.me](dangquanglinh.me)
 
