@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [dangquanglinh.me](https://www.dangquanglinh.me/)
+- 👨‍💻 All of my projects are available at [linkchase.me](https://www.dangquanglinh.me/)
 
 - 📫 How to reach me **dangquanglinh48@gmail.com**
 
