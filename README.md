@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dang Quang Linh</h1>
+<h1 align="center">Hi 👋, I'm Linh</h1>
 <h3 align="center">A Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [linkchase.me](https://www.linkchase.me/)
