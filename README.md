@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
 <h3 align="center">A Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [linkchase.me](https://www.linkchase.me/)
+- 👨‍💻 All of my projects are available at [linhdev19.tech](https://www.linhdev19.tech/)
 
 - 📫 How to reach me **dangquanglinh48@gmail.com**
 
