@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
 <h3 align="center">A Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [Here](https://linhdq.works/)
-
 - 📫 How to reach me **dangquanglinh48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
